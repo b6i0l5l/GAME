@@ -1,0 +1,19 @@
+public class ClickDestroy : MonoBehaviour {
+
+    
+   
+
+    void Start()
+    {
+        
+    }
+    void OnMouseDown ()
+    {
+        
+        Destroy(gameObject);
+        
+
+
+    }
+    
+}
