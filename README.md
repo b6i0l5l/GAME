@@ -1,2 +1,2 @@
 # GAME
-All the games are created by unity
+Players get the points by shooting ballons
